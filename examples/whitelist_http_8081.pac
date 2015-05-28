@@ -122,7 +122,12 @@ var RULES = [
         ".legolas-media.com",
         ".harrenmedianetwork.com",
         ".google-analytics.com",
-        ".qiniucdn.com"
+        ".qiniucdn.com",
+        ".wangyin.com",
+        ".gewara.com",
+        ".ele.me",
+        ".teambition.com",
+        ".anquanbao.com"
     ],
     //"ihipop"
     [
@@ -487,6 +492,7 @@ var RULES = [
         ".james520.com",
         ".jandan.net",
         ".jb51.net",
+        ".jianshu.io",
         ".jiathis.com",
         ".jiatx.com",
         ".jiayuan.com",
@@ -709,6 +715,7 @@ var RULES = [
         ".tudouui.com",
         ".tui18.com",
         ".tuniu.com",
+        ".typecho.org",
         ".tvmao.com",
         ".twcczhu.com",
         ".u17.com",
